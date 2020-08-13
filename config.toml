@@ -1,0 +1,33 @@
+baseURL = "http://localhost:1313/"
+languageCode = "de-DE"
+title = "Nord Reet UG"
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
+
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+DefaultContentLanguage = "de"
+[languages]
+  [languages.de]
+    title = "Nord Reet UG"
+    weight = 2
+  [languages.en]
+    title = "Nord Reet UG"
+    weight = 1
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[params]
+  commentoEnable = false
+  #linkedin = "https://linkedin.com/whoever"
+  #facebook = "https://linkedin.com/whoever"
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  background_color_class = "bg-green"
