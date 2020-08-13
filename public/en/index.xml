@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nord Reet UG</title>
-    <link>https://dnltsk.github.io/nordreet-content/en/</link>
+    <link>https://dnltsk.github.io/nordreet-content/public/en/</link>
     <description>Recent content on Nord Reet UG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 13 Aug 2020 17:09:28 +0200</lastBuildDate>
     
-	<atom:link href="https://dnltsk.github.io/nordreet-content/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dnltsk.github.io/nordreet-content/public/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://dnltsk.github.io/nordreet-content/en/kontakt/</link>
+      <link>https://dnltsk.github.io/nordreet-content/public/en/kontakt/</link>
       <pubDate>Thu, 13 Aug 2020 20:09:28 +0200</pubDate>
       
-      <guid>https://dnltsk.github.io/nordreet-content/en/kontakt/</guid>
+      <guid>https://dnltsk.github.io/nordreet-content/public/en/kontakt/</guid>
       <description>Marienstr. 27a, 17489 Greifswald
 Tel.: +49 3834 2541810
 E-Mail: info@nordreet.de</description>
@@ -24,10 +24,10 @@ E-Mail: info@nordreet.de</description>
     
     <item>
       <title>Articles</title>
-      <link>https://dnltsk.github.io/nordreet-content/en/artikel/</link>
+      <link>https://dnltsk.github.io/nordreet-content/public/en/artikel/</link>
       <pubDate>Thu, 13 Aug 2020 17:09:28 +0200</pubDate>
       
-      <guid>https://dnltsk.github.io/nordreet-content/en/artikel/</guid>
+      <guid>https://dnltsk.github.io/nordreet-content/public/en/artikel/</guid>
       <description>Borriss, Rainer; Borriss, Michael: &amp;ldquo;Brauchen wir qualitätszertifiziertes Reet?&amp;quot;
 Prüfprotokoll zur Reetqualität
 Präsentation Schlussfolgerungen Projekt &amp;ldquo;Biologische Reetzertifizierung&amp;rdquo;
