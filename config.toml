@@ -1,4 +1,5 @@
-baseURL = "https://dnltsk.github.io/nordreet-content/public/"
+baseURL = "http://localhost:1313/"
+#baseURL = "https://dnltsk.github.io/nordreet-content/public/"
 languageCode = "de-DE"
 title = "Nord Reet UG"
 theme = "gohugo-theme-ananke"
