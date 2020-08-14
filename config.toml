@@ -24,6 +24,10 @@ DefaultContentLanguage = "de"
   priority = 0.5
   filename = "sitemap.xml"
 
+[markup]
+  defaultMarkdownHandler = "blackFriday"
+[markup.blackFriday]
+  hrefTargetBlank = true
 
 [params]
   commentoEnable = false
