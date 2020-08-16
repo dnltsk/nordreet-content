@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/contact/</loc>
     <lastmod>2020-08-13T20:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/kontakt/"
+                href="https://dnltsk.github.io/nordreet-content/public/kontakt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/articles/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/articles/</loc>
     <lastmod>2020-08-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/artikel/"
+                href="https://dnltsk.github.io/nordreet-content/public/artikel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/articles/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/articles/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/</loc>
     <lastmod>2020-08-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/"
+                href="https://dnltsk.github.io/nordreet-content/public/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/imprint/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/imprint/</loc>
     <lastmod>2020-05-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/impressum/"
+                href="https://dnltsk.github.io/nordreet-content/public/impressum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/imprint/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/imprint/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/categories/"
+                href="https://dnltsk.github.io/nordreet-content/public/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://dnltsk.github.io/nordreet-content/public/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/tags/"
+                href="https://dnltsk.github.io/nordreet-content/public/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/tags/"
                 />
   </url>
   
