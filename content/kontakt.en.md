@@ -2,7 +2,10 @@
 title: "Contact"
 date: 2020-08-13T20:09:28+02:00
 draft: false
-menu: main
+menu: 
+  main:
+    weight: 2
+slug: contact
 ---
 
 Marienstr. 27a, 17489 Greifswald

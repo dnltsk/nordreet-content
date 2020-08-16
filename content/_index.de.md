@@ -1,11 +1,11 @@
 ---
 title: "Nord Reet UG"
 date: 2020-08-13T17:09:28+02:00
-featured_image: "/img/banner.jpg"
+featured_image: /img/background.jpg
 draft: false
 ---
 
-Die Nord Reet UG führt Dienstleistungen im Zusammenhang mit der Qualitäts-Analyse von Dachreet 
+Die [Nord Reet UG](https://www.nordreet.de/) führt Dienstleistungen im Zusammenhang mit der Qualitäts-Analyse von Dachreet 
 und zu thematisch verwandten baubiologischen Untersuchungen aus. Das Unternehmen unterstützt und 
 berät Dachdecker, Reethändler als auch Inhaber von Reet-gedeckten Objekten bei der 
 Schadensdiagnostik, -prognose und -vermeidung.

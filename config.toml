@@ -1,5 +1,6 @@
 #baseURL = "http://localhost:1313/"
 baseURL = "https://dnltsk.github.io/nordreet-content/public/"
+
 languageCode = "de-DE"
 title = "Nord Reet UG"
 theme = "gohugo-theme-ananke"
@@ -19,6 +20,14 @@ DefaultContentLanguage = "de"
     title = "Nord Reet UG"
     weight = 1
 
+[menu]
+  [[menu.footer]]
+    identifier = "about"
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -34,5 +43,6 @@ DefaultContentLanguage = "de"
   #linkedin = "https://linkedin.com/whoever"
   #facebook = "https://linkedin.com/whoever"
   favicon = ""
+  custom_css = ["css/custom.css"]
   description = "The last theme you'll ever need. Maybe."
-  background_color_class = "bg-green"
+  background_color_class = "bg-brown"

@@ -10,7 +10,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/kontakt/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,7 +27,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/artikel/"
+                href="https://dnltsk.github.io/nordreet-content/public/en/articles/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,6 +50,23 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://dnltsk.github.io/nordreet-content/public/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dnltsk.github.io/nordreet-content/public/impressum/</loc>
+    <lastmod>2020-05-13T17:09:28+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dnltsk.github.io/nordreet-content/public/en/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dnltsk.github.io/nordreet-content/public/impressum/"
                 />
   </url>
   
