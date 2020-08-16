@@ -1,5 +1,6 @@
-#baseURL = "http://localhost:1313/"
-baseURL = "https://dnltsk.github.io/nordreet-content/public/"
+baseURL = "http://localhost:1313/"
+#baseURL = "https://dnltsk.github.io/nordreet-content/public/"
+relativeURLs = true
 
 languageCode = "de-DE"
 title = "Nord Reet UG"
