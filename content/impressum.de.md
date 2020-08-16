@@ -7,7 +7,6 @@ menu:
     weight: 3
 ---
 
-# Impressum
 Angaben gemäß § 5 TMG
 
 ### Nord Reet UG (haftungsbeschränkt)
