@@ -8,7 +8,7 @@ menu:
 slug: articles
 ---
 
-# Reet Analyse
+# Reed Analysis
 
 [Borriss, Rainer; Borriss, Michael: "Brauchen wir qualitätszertifiziertes Reet?"](/pdf/brauchen-wir-qualitaetszertifiziertes-reet.pdf)
 
