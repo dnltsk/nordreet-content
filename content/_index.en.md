@@ -1,7 +1,7 @@
 ---
 title: "Nord Reet UG"
 date: 2020-08-13T17:09:28+02:00
-featured_image: /img/background.jpg
+featured_image: ../img/background.jpg
 draft: false
 ---
 
