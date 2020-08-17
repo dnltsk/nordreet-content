@@ -8,6 +8,8 @@ menu:
 slug: imprint
 ---
 
+Angaben gemäß § 5 TMG
+
 ### Nord Reet UG (haftungsbeschränkt)
 Marienstr. 27a
 D-17489 Greifswald
