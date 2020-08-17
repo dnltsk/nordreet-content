@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/contact/</loc>
+    <loc>/en/contact/</loc>
     <lastmod>2020-08-13T20:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/kontakt/"
+                href="/kontakt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/contact/"
+                href="/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/articles/</loc>
+    <loc>/en/articles/</loc>
     <lastmod>2020-08-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/artikel/"
+                href="/artikel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/articles/"
+                href="/en/articles/"
                 />
   </url>
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2020-08-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/imprint/</loc>
+    <loc>/en/imprint/</loc>
     <lastmod>2020-05-13T17:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/impressum/"
+                href="/impressum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/imprint/"
+                href="/en/imprint/"
                 />
   </url>
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dnltsk.github.io/nordreet-content/public/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dnltsk.github.io/nordreet-content/public/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dnltsk.github.io/nordreet-content/public/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
